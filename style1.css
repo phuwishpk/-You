@@ -94,6 +94,6 @@ body1 {
 
 .centered-text {
   position: center; 
-  font-size: 4cqi; /* ขนาดตัวอักษรใหญ่ */
+  font-size: 3cqi; /* ขนาดตัวอักษรใหญ่ */
   font-weight: bold; /* ตัวหนา */
 }
