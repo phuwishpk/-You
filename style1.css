@@ -81,7 +81,7 @@ body1 {
   justify-content: center; /* จัดกึ่งกลางในแนวนอน */
   align-items: center; /* จัดกึ่งกลางในแนวตั้ง */
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4; /* สีพื้นหลัง */
+  background-color: #fff; /* สีพื้นหลัง */
 }
 
 .container {
@@ -89,7 +89,7 @@ body1 {
   display: flex; 
   justify-content: center; /* จัดกึ่งกลางในแนวนอน */
   align-items: center; /* จัดกึ่งกลางในแนวตั้ง */
-  background-color: #f4f4f4; /* สีพื้นหลัง */
+  background-color: #fff; /* สีพื้นหลัง */
 }
 
 .centered-text {
